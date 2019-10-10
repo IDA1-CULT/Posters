@@ -1,6 +1,6 @@
 # Posters
 
-Here you can share your poster code with other classmates.
+Here you can share your poster code with other classmates if you want.
 
 ## Starting code
 
