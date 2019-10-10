@@ -2,7 +2,7 @@
 
 Here you can share your poster code with other classmates if you want.
 
-## Starting code
+## Starting code if you are having trouble
 
 ```processing
 import processing.pdf.*;
