@@ -10,3 +10,4 @@ void setup() {
 }
 ```
 
+3: run the script, once the image appears on the screen it should also be saved to the output folder as a pdf
